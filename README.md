@@ -8,7 +8,6 @@ This project is an end-to-end Power BI analytics solution built to analyze Spoti
 4. Evaluate music attributes like energy, danceability, liveness, etc.
 5. Enable interactive filtering by track, artist, and date
 
-# Dashboard Highlights :
 # KPI Metrics
 1. Total Streams: 403 Billion
 2. Total Tracks: 727
